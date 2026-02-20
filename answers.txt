@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: It lets people track any changes they made in their code over a long period or time and makes collaboration much easier by letting multiple cork on the same thing without overwriting other people's work.
+
